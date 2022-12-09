@@ -1,0 +1,15 @@
+/Users/admin/Desktop/GB/C#/Sem04/task30/obj/Debug/net6.0/task30.csproj.AssemblyReference.cache
+/Users/admin/Desktop/GB/C#/Sem04/task30/obj/Debug/net6.0/task30.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/GB/C#/Sem04/task30/obj/Debug/net6.0/task30.AssemblyInfoInputs.cache
+/Users/admin/Desktop/GB/C#/Sem04/task30/obj/Debug/net6.0/task30.AssemblyInfo.cs
+/Users/admin/Desktop/GB/C#/Sem04/task30/obj/Debug/net6.0/task30.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/GB/C#/Sem04/task30/bin/Debug/net6.0/task30
+/Users/admin/Desktop/GB/C#/Sem04/task30/bin/Debug/net6.0/task30.deps.json
+/Users/admin/Desktop/GB/C#/Sem04/task30/bin/Debug/net6.0/task30.runtimeconfig.json
+/Users/admin/Desktop/GB/C#/Sem04/task30/bin/Debug/net6.0/task30.dll
+/Users/admin/Desktop/GB/C#/Sem04/task30/bin/Debug/net6.0/task30.pdb
+/Users/admin/Desktop/GB/C#/Sem04/task30/obj/Debug/net6.0/task30.dll
+/Users/admin/Desktop/GB/C#/Sem04/task30/obj/Debug/net6.0/refint/task30.dll
+/Users/admin/Desktop/GB/C#/Sem04/task30/obj/Debug/net6.0/task30.pdb
+/Users/admin/Desktop/GB/C#/Sem04/task30/obj/Debug/net6.0/task30.genruntimeconfig.cache
+/Users/admin/Desktop/GB/C#/Sem04/task30/obj/Debug/net6.0/ref/task30.dll
